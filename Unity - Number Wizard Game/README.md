@@ -1,3 +1,3 @@
-# Unity---Tanks-Tutorial
+# Unity---Numbers Wizard
 
-Project created following the tutorial originally recorded at Unite Boston 2015 - it is a 2 player (one keyboard) shooter game created using Unity 3D.
+Simple scripted C# number guessing game that is run from within the Unity console.
